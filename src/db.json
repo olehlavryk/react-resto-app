@@ -3,35 +3,35 @@
 		{
 			"title": "Cesar salad",
 			"price": 12,
-			"url": "https://static.1000.menu/img/content/21458/-salat-cezar-s-kr-salat-cezar-s-krevetkami-s-maionezom_1501173720_1_max.jpg",
+			"url": "https://images.unsplash.com/photo-1555057949-7e4a30956f1f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
 			"category": "salads",
 			"id": 1
 		},
 		{
 			"title": "Pizza Margherita",
 			"price": 10,
-			"url": "http://www.academiabarilla.com/anteprima_pizzamargherita_xhm1p-2_1200.jpg?h=faa3bae42d7180a508c490395249247ded3f362c",
+			"url": "https://images.unsplash.com/photo-1573821663912-6df460f9c684?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80",
 			"category": "pizza",
 			"id": 2
 		},
 		{
 			"title": "Pizza Napoletana",
 			"price": 13,
-			"url": "https://www.pizzanapoletana.org/struttura/pagine_bicolor/mobile/decalogo_avpn_1.jpg",
+			"url": "https://images.unsplash.com/photo-1569698170031-21b776b6468e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1772&q=80",
 			"category": "pizza",
 			"id": 3
 		},
 		{
 			"title": "Greece salad",
 			"price": 8,
-			"url": "https://assets.epicurious.com/photos/576454fb42e4a5ed66d1df6b/master/pass/greek-salad.jpg",
+			"url": "https://images.unsplash.com/photo-1555057949-7e4a30956f1f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
 			"category": "salads",
 			"id": 4
 		},
 		{
 			"title": "Cowboy Steak",
 			"price": 25,
-			"url": "https://i.cbc.ca/1.4491288.1516208229!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/cowboysteak.jpg",
+			"url": "https://images.unsplash.com/photo-1565299715199-866c917206bb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=828&q=80",
 			"category": "meat",
 			"id": 5
 		}
